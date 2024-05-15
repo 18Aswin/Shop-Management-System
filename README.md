@@ -29,10 +29,16 @@ The program utilizes Python and Tkinter for the graphical user interface (GUI) t
 
 ## Usage
 
-1. Run `Add_to_Database.py` to add products to the inventory initially.
-2. Use `update.py` to update stock, price, or other information as needed.
-3. Customers can make purchases using `customer.py`.
-4. Bills will be generated in the 'invoice' folder, and transaction records will be stored in the SQLite database.
+1. Clone the repository:
+
+```
+git clone https://github.com/18Aswin/Shop-Management-System.git
+```
+
+2. Run `Add_to_Database.py` to add products to the inventory initially.
+3. Use `update.py` to update stock, price, or other information as needed.
+4. Customers can make purchases using `customer.py`.
+5. Bills will be generated in the 'invoice' folder, and transaction records will be stored in the SQLite database.
 
 ## Database Schema
 
